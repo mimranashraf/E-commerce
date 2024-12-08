@@ -1,0 +1,79 @@
+header {
+    width: 1440px;
+  }
+
+.top-div {
+    width: 1440px;
+    height: 32px;
+    border: 2px solid blue;
+    background-color: #000000;
+  }
+  .top-p {
+    width: 351px;
+    height: 19px;
+    margin-top: 9px;
+    margin-left: 544px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .para {
+    font-family: Satoshi;
+    font-size: 14px;
+    font-wighr: 400;
+    line-height: 18.9px;
+    color: #ffffff;
+  }
+  .span {
+    text-decoration: underline;
+    style: solid;
+    skip-ink: False;
+  }
+  
+ .heading{
+    width: 1240px;
+    height:41px;
+    margin-left: 100px;
+    gap: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+
+ }
+
+ .name{
+    width: 160px;
+    height: 100px;
+ }
+ .name p{
+    font-size: 32px;
+    font-family: Integral CF;
+    font-weight: 700;
+ }
+ .menu{
+    width: 321px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    gap:24px;
+ }
+ .link{
+   font-size:14px;
+    text-decoration:none;
+ }
+
+ .input{
+    width: 557px;
+    height: 40px;
+    border-radius: 62px;
+    color: #F0F0F0;
+ }
+
+.icon-img{
+    width:150px;
+    height: 30px;
+    display:flex;
+   gap: 20px;
+}
